@@ -1,1 +1,1 @@
-This Repository contains Basic React projects created by me.
+This Repository contains Basic React projects.
